@@ -4,3 +4,6 @@ my first  project .
 Html
 Css 
 JavaScript
+# GitHub
+git= track code version
+hub= store data and collaborate
